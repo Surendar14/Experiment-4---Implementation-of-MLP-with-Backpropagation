@@ -172,4 +172,3 @@ Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully
 
 
 
-
